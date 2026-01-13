@@ -1,0 +1,817 @@
+:: StoryTitle
+Lalka
+
+
+:: StoryData
+{
+  "ifid": "FF93F7E9-D9FB-4AF8-A97D-E1CC4502B651",
+  "format": "Chapbook",
+  "format-version": "2.3.0",
+  "start": "Prologue",
+  "zoom": 1
+}
+
+
+:: \ Ask Baba Yaga {"position":"6800,700","size":"100,100"}
+I follow her into a small kitchen and take a seat at the dinning table where Baba Yaga busies herself fixing us both a plate of food and drink. 
+
+[after 5 seconds]
+"Grandmother please allow me"  \
+Baba Yaga nods approvingly and takes her seat while I begin serving her food. 
+
+[after 10 seconds]
+"Thank you child, these cold winter nights do rattle these old bones so...Good to see all those rubles and riches haven't made you forget your manners. Now tell me why did you come all this way and so late tsk tsk..."
+
+[after 15 seconds]
+I kneel at her chair  \
+"Please! Grandmother, my daughter she is unwell! She doesn't eat or act how she used to! Its as if she's someone else entirely! She wails whenever I leave her side and the way she speaks! You'd think she was my mother not my daughter. I've taken her to the court physician and he claims there is nothing wrong with her, but I sense it!" 
+
+[after 20 seconds]
+[[Continue -> The Calm]]
+
+
+
+:: \ Bad Door {"position":"6600,500","size":"100,100"}
+You see the door open and a looming figure, hidden in shadow appears before you. 
+
+[after 3 seconds]
+Her icy gaze meets mine and she gives a humble curtsy, "Ahhh...I knew you smelt familiar, please do come in your *majesty*, I was just preparing my supper. Will you do me the honor of joining me?"
+
+[after 6 seconds]
+Vasilisa cautiously crosses the little hut's threshold and enters the home of Baba Yaga, once again...
+
+[after 9 seconds]
+[[Continue ->Eaten by Baba Yaga]]
+
+
+
+:: \ Bad Ending 1 {"position":"2800,600","size":"100,100"}
+Consumed by Baba Yaga's hearth, pass into the unknown. Oh how I wish I could be with my darling Vasilisa once more...
+
+[after 10 seconds]
+The End.
+
+
+:: \ Command the Hut {"position":"6000,600","size":"100,100"}
+The hut stood with its back to me and pawed aimlessly at the ground. I called up to it:
+
+[after 5 seconds]
+"Little hut, little hut
+[after 8 seconds]
+Stand the way thy Mother placed thee
+[after 11 seconds]
+Turn thy back to the forest and thy face to me!"
+
+[after 20 seconds]
+Tentatively, the hut began to turn and as it moved I saw an enormous shadow move in the window above me. As the hut, knelt down to show me its door, I opened the front gate and as if in a trance walked to the front door and knocked three times...
+
+[after 25 seconds]
+[[No going back now]]
+
+
+:: \ Flower Crown {"position":"5100,1000","size":"100,100"}
+I tie my horse to a nearby tree branch and begin looking for long pieces of grass to weave together. I take reeds of cowslip and primrose braiding them into a flower crown. I take off my cloak, leaving it and the crown by the river side and say
+
+[after 10 seconds]
+"Oh maiden of these waters, please guide me on my path and allow me how to cross your river unharmed."
+
+[after 15 seconds]
+The water moves in gentle ripples towards the rivers edge and a small, webbed hand moves out of the water snatching up the cloak and crown. Then the ripples move to hide in the nearby reeds. I can only see two black eyes poke out, both as shiny and deep as river stones. 
+
+[after 25 seconds]
+"Oh what a wonderful cloak and a beautiful crown! I've never seen anything like it! You may cross my river, just this once..."
+
+[after 30 seconds]
+The river spirit sinks into the water and as she does the river parts and the river bed moves upwards revealing a small path across the river to the other side
+
+[after 35 seconds]
+[[Continue -> The Witch's Hut]]
+
+
+:: \ Frozen {"position":"5400,600","size":"100,100"}
+*As Vasilisa continues her journey on foot, feeling the cold clinging to her back and the dull ache of hunger in her belly. The burden is too heavy, the frost too biting, and she passes out in the snow to never wake...*
+
+[after 10 seconds]
+The End.
+
+
+:: \ Gift 1 {"position":"1500,500","size":"100,100"}
+Yes! I shall give her ladybirds to bring her luck when she needs it most. 
+
+[[Continue -> Night 275]]
+
+
+:: \ Gift 2 {"position":"1500,700","size":"100,100"}
+Yes! I shall give her two cents, lest she have no sense at all. 
+
+[[Continue -> Night 275]]
+
+
+:: \ Gift 3 {"position":"1500,900","size":"100,100"}
+Yes! I shall give her a spool of red thread so fate may guide her hand in finding love. 
+
+[[Continue -> Night 275]]
+
+
+:: \ Gift 4 {"position":"1500,1100","size":"100,100"}
+Yes! I shall give her a gold key so doors and opportunities open before her with ease. 
+
+[[Continue -> Night 275]]
+
+
+:: \ Good Door {"position":"6600,700","size":"100,100"}
+You see the door slowly creaks open and a hunched old woman greets you with a thin-lipped smile. 
+
+[after 5 seconds]
+"Ahhh...I knew I smelt something familiar. Please do come in, and tell me what brings you out all this way...*again*"
+
+[after 10 seconds]
+[[ Continue -> Ask Baba Yaga]]
+
+
+:: \ Into the Woods {"position":"4500,800","size":"100,100"}
+As I ride through the woods, I feel the eyes of every spirit and creature lurking in the shadows watching me. 
+[after 5 seconds]
+Once upon a time, I would've known these woods well. I would've felt braver, but backthen I had my mother's Doll to help guide my way. This time I alone.
+
+[after 15 seconds]
+After what felt like days of riding, I find myself at a crossroads, faced with two identical paths. 
+
+[after 20 seconds]
+***Which path should I take?***
+> [[Left Path]]
+> [[Right Path]]
+
+
+:: \ Lie {"position":"2600,1000","size":"100,100"}
+"My...my name is Lalka."
+
+[after 5 seconds]
+Baba Yaga smiles, a wide sharp-toothed grin
+
+[after 10 seconds]
+"Very well Lalka, I accept your name as payment. Now run to your precious Vasilisa."
+
+[after 15 seconds]
+The Witch's smile grows and grow. Then the whole house begins to grow with it and tremble. Baba Yaga starts to grow, looming over me. I hear her bones begin to crack and snap as her limbs begin to stretch around the tiny hut. Wildly seeking something...
+
+[[Run!->Find Vasilisa]]
+
+
+:: \ Months Pass {"position":"2000,800","size":"100,100"}
+It has been weeks, no *months*, since Vasilisa has spoken to me! Ever since Lalka was born I have been collecting dust on her nightstand. She never even thanked me for making Lalka! 
+[after 10 seconds
+Lalka is perfect in every way, protected from sickness, beautiful like her mother, and {readers choice here}. That stupid girl has been keeping Vasilisa so preoccupied she never has any time for me. I fear she has forgotten me…
+
+[after 25 seconds]
+
+YEARS have passed now! It’s that aweful Lalka’s 9th birthday and my darling Vasilisa has gifted me to Lalka...
+[after 30 seconds]
+***WITHOUT EVEN ASKING ME!!!!***
+[after 40 seconds]
+I am meant to be with Vasilisa *forever*! It was why I was created! Vasilisa hasn't even spoken to me in so long. She spends all her time with Lalka, that spoiled brat!
+
+I am overcome with grief at this. How could my darling Vasilisa give me — give my love — away so easily? 
+
+[[Continue -> Night in the Woods]]
+
+
+:: \ Mother Dies {"position":"400,800","size":"100,100"}
+Without warning, Vasilisa’s mother fell gravely ill and knowing her time was short, the mother gifted her young daughter a small wooden doll. 
+
+[after 5 seconds]
+
+"Take this little one and take good care of her. When the world becomes too much or your heart is too heavy, feed her some food and drink and tell her your sorrows. She will always be with you and go where I cannot."
+
+[after 10 seconds]
+Vasilisa carefully took her mother’s gift and soon her mother was whisked away, far beyond where Vasilisa could go…
+[after 15 seconds]
+[[Continue->Remarried]]
+
+
+:: \ Next Day Good {"position":"5200,400","size":"100,100"}
+When I wake up in the morning, the cabin is warm and looks a little cleaner. All of the frost from the previous night seems to have melted away. I find my offering has vanished and in its place is a small bag of herbs. A small bundle of wood of the cross, cloves, and linden a blessing for the journey ahead.
+[after 5 seconds]
+As I leave the tiny hut, bow my head and thank the house spirit for its hospitality before continuing my journey.
+[after 10 seconds]
+[[Continue -> The Witch's Hut]]
+
+
+:: \ Night 275 {"position":"1800,800","size":"100,100"}
+It has happened!
+[after 5 seconds]
+She has given birth to a beautiful baby girl, who is as precious as my darling Vasilisa. She has named her, *Lalka*, after me I presume. The King was overjoyed and they’ve been feasting and celebrating for days now. 
+[after 10 seconds]
+Well...
+[after 2 seconds]
+Everyone except for Vasilisa, who has stayed in her room holding her newborn babe in her arms. She often gives Lalka food and drink, then whispers sweet nothings, and wondrous tales in her ears. Why has she never told me such stories?
+
+[[Continue -> Months Pass]]
+
+
+:: \ Night in the Woods {"position":"2200,800","size":"100,100"}
+I do not know where I am...
+[after 2 seconds]
+Only that I am battered and bruised, covered in muck and snow. Lalka, the idiot, took me outside to play and forgot to take me back with her. I wish Vasilisa would come and save me, but I know she will not. It has been a fortnight and no one has come looking for me. I am ***lost*** without her! I am ***nothing*** without her! I will rot away in the woods, alone and forgotten —
+
+[[Continue ->Enters Baba Yaga]]
+
+
+:: \ Say Your Goodbyes {"position":"7800,800","size":"100,100"}
+I took Lalka's hand in my own and silently moved towards the hut's door. Pausing for a moment to kneel infront of the Doll. 
+[after 10 seconds]
+"Dearest one, I am sorry for the hurt I caused you. That I took advantage of your kindness and love. You were there for me when no one else was and I was so careless with your heart. My little doll, take this name— Milena– as my parting gift and forgive me for not naming you sooner. Know that you will always be in my heart."
+
+[after 20 seconds]
+Giving her hand one last gentle squeeze, I let the hut door shut behind me and Lalka. Watching as the little hut, standing on chicken legs, turned its back to us and  began walking into the forest. Taking with it last gift my mother gave me. 
+
+[after 30 seconds]
+I gently squeezed Lalka's hand, as she continued to stare at where the little hut had been awestruck. I thought upon the Witch's words, \
+"Mothers and daughters, mothers and daughters, two sides..."
+[after 40 seconds]
+After a moment, Lalka and I went back to my horse and began the journey home. 
+[after 50 seconds]
+The End. 
+
+
+:: \ The Calm {"position":"7000,700","size":"100,100"}
+"Ha! Mothers and daughters...mothers and daughters two sides of the same coin. Tell me how is she fairing now, when you've strayed so far from her side?"
+[after 5 seconds]
+"I had to! Please I help me! Help my darling Lalka!"
+[after 10 seconds]
+Baba yaga sneers at me, "So this is why you've come! Well you can't have her! She's made such a excellent serving girl and helps my weary, old bones with all the house work."
+[after 15 seconds]
+"What do you mean?!? You...you can't have Lalka? I left her at the palace."
+[after 20 seconds]
+Baba Yaga stands up, looming over the dinner table, "***LALKA!***"
+[after 25 seconds]
+With a clatter from upstairs, a frightened young girl, covered in soot and dirt and wearing a silk night gown, hurriedly clambered into the kitchen. Fiddling with her hands awaiting the Witch's command.
+
+[after 30 seconds]
+"Is this who you seek?"
+
+[after 35 seconds]
+[[Continue -> The Storm]]
+
+
+:: \ The Storm {"position":"7200,700","size":"100,100"}
+I fling myself at the young girl, so dirty I barely recognized her,  "Oh my darling Lalka! How can this be? How are you here right now? I left you at the palace, what is the meaning of this?"
+
+[after 10 seconds]
+"Your precious Lalka was so sad when she couldn't be with you. Oh how you discarded her after she loved you so much...*tsk tsk*. She traded her name to see you once more! And once she saw you I collected my payment— ***HER!*** She is mine by right and you can't have her!"
+
+[after 20 seconds]
+"But this can not be! I love Lalka with all my heart! I would never discard her! She hasn't left my side! She couldn't have given you her name, tell me who gave you her name!?!"
+
+[after 25 seconds]
+Baba Yaga thought to herself for a moment and then said, "Your precious blessing bestowed by your mother. The one you named Lalka"
+
+[after 30 seconds]
+I deperately searched for the peices to connect this damning puzzle, who was she talkign about? I would never discard Lalka! And who knew of her? It must've been someone close to us, but *who*? Then it dawned on me: ***my mother's blessing***
+
+[after 40 seconds]
+"Grandmother! You have been decieved! It was my Doll that traded Lalka's name, but I **never** named my mother's blessing! That Doll paid you with something that was never hers to give! Please give my Lalka back to me!"
+
+[after 50 seconds]
+Baba Yaga roared in fury, so loud the whole hut shook with her anger. She quickly ran to the window, yanked it open and yelled outside: "Bring her to me! Bring me that lying, wicked Doll!"
+
+[after 60 seconds]
+Suddenly the winds began to whip so fiercely the shudders shook and the forrest outside moaned with the force. A loud chorus of goose honks cresendoed over the howling wind and Baba Yaga began to pace furiously while Lalka and I wept holding each other too terrified to move lest we face the Witch's wrath.
+
+[after 60 seconds]
+[[The Witch's Wrath]]
+
+
+:: \ The Witch's Hut {"position":"5800,600","size":"100,100"}
+I continued my journey through the forest for what felt like days. Until I heard the galloping of hooves behind me and saw a rider approaching. Dressed in all black, face covered by a hooded cloak and riding a coal-black steed. He gallops pass and into a clearing, where the Witch's hut stands waiting for its mistress. 
+
+[after 10 seconds]
+I dismount, whispering a thank you into my courageous steed's mane praising it for bringing me this far. Tieing her to a nearby tree for the journey home, I make it home...
+[after 15 seconds]
+Then, I  begin walking towards the hut on chicken legs, illuminated by porceline white skulls glowing with unnatural embers burning within. 
+
+[after 20 seconds]
+[[Continue -> Command the Hut]]
+
+
+:: Ask the King to send for more doctors {"position":"3800,800","size":"100,100"}
+The King is too busy to see you and sends you away with a compliment and a kiss. 
+
+>[[See the court physician]]
+>[[Go and find help yourself]]
+
+
+:: Chapter 2 {"position":"3300,800","size":"100,100"}
+# Chapter 2: A Mother's Intuition #
+
+It has been several weeks since my precious Lalka ran away and returned home. She will not tell me what made her so upset that she ran away, but I am just happy that she is safe and sound. 
+[after 10 seconds]
+Still...something is wrong with her. She's different. She looks the same, but she moves strangely as if she's never walked before. She talks as if she's older than I am! Too prim and proper for a young girl of nine. She also refuses to leave my side. 
+[after 25 seconds]
+I do not know where my free-spirited, darling Lalka has gone, but I must find out what has frightened her so...
+
+[after 28 seconds]
+[[To the Court Physician ->Doctor's Visit]]
+
+
+:: Do Nothing {"position":"7600,600","size":"100,100"}
+I watch in horror as Baba Yaga takes a deep inhale, reclaiming her magic from the Doll. As the Doll continues weeping, her features become more rough-hewn and course.
+
+[after 10 seconds]
+Finally the Doll, is wooden once more, though more tarnished and worn. \
+Baba Yaga snatches the Doll up from off the floor and with a flick of her wrist casually tosses the Doll in her hearth. 
+
+[after 20 seconds]
+As the flames begin, greedily consuming the Doll whose unmoving face was still weeping silent tears. \
+Slowly, Baba Yaga turned to face me with a disembodied grin. 
+
+[after 25 seconds]
+"Begon girl, and **NEVER** darken my doorstep again."
+
+[after 30 seconds]
+Solemnly nodd, pick up Lalka and leave the little hut. Hearing the door slam shut behind me, clipping my heels, and as we begin our journey home back through the woods. Numbness at what I've witnessnes overtaking me...
+
+[after 40 seconds]
+The End.
+
+
+:: Doctor's Visit {"position":"3500,800","size":"100,100"}
+I have taken Lalka to see the palace physician several times this week. He assures me she is healthy. I have begged the King to send for outside counsel, but he merely waves me off. He does not see! Lalka is different! She has changed! What if she is ill? I must find a way help her...
+
+[after 15 seconds]
+***What should I do?***
+> [[See the court physician]]
+> [[Ask the King to send for more doctors]]
+> [[Go and find help yourself]]
+
+
+:: Eaten by Baba Yaga {"position":"6800,500","size":"100,100"}
+**The Next Day** \
+[After 2 seconds]
+Baba Yaga steps outside, clutching something delicate and small in her hands. She holding a freshly boiled skull, learing at it as she walks to her fence. 
+
+[after 6 seconds]
+"How *fortunate* am I! I've been waiting to replace the one you borrowed from me. And I never knew how delicious Queen's tasted. HAHAHAHA!"
+
+[after 8 seconds]
+And with a hardy laugh she turns her back to the forest entering her hut once more, as it begins to lumber off into the forest...
+
+[after 12 seconds]
+The End.
+
+
+:: Enters Baba Yaga {"position":"2400,800","size":"100,100"}
+How curious? It is warm and I am sat on am old, table with an old woman studying me silently. 
+
+[after 10 seconds]
+"Now what do we have here?"
+
+[after 15 seconds]
+Oh no! It is Baba Yaga, the Witch of the Woods, she must’ve found me in the woods. She will surely use me for kindling, she didn’t take fondly to my presence the last time I was in her traveling hut. How unlucky I must be! If only I could see my beloved Vasilisa again. 
+
+[after 30 seconds]
+"So we’ve met before…and you wish to be reunited with that girl again… I remember her. Vasilisa."
+
+[after 35 seconds]
+"*YES!* We’ve been separated by a cruel fate, but I wish to be with her once more! Please, I love her so! Can you help me?"
+
+[after 40 seconds]
+"Ha! Of course I could…but nothing is free. What can you offer in return?"
+
+[after 45 seconds]
+"I do not have much, but I am blessed with a mothers love. Would that be a fair trade?"
+
+[after 50 seconds]
+"Bah! I have no use for blessings or curses. I've had my fill of both. What else?"
+
+[after 55 seconds]
+"I have nothing else…"
+
+[after 60 seconds]
+"Nothing? Surely your darling Vasilisa has given you a name? Give me that and I will reunite the two of you."
+
+[after 65 seconds]
+"You mean… if I tell you what she has named me, you *swear* you will reunite us?"
+
+[after 70 seconds]
+"My word is my ***bond***."
+
+[after 75 seconds]
+***What should I do?***
+> [[Tell the Witch you have no name ->Truth]]
+> [[Give the Witch another's name -> Lie]]
+
+
+:: Find Vasilisa {"position":"2800,1000","size":"100,100"}
+Without a second thought I  bolt out of the witches cabin and hear the banging of the witches mortar and pestle and she begins to give chase. 
+
+[after 5 seconds]
+But what is this? 
+
+[after 7 seconds]
+I am **running**! I have **legs**! And **arms**! I am small and swift. I dart through the woods begging the trees to give way and reveal the path to my darling Vasilisa. 
+
+[after 10 seconds]
+Above me I see the Witch's shadow, soaring through the early dawn sky, a blur of movement. She's gleefully calling out Lalka's name, enraptured by the chase, making her way to claim her prize. I stick to the shadows praying that she can not see me. 
+[after 15 seconds]
+Then I see what she is following, a long strand of red thread, she's gathering it with a large spindle and using it to pull her towards her payment like a fisherman reeling in big catch — pulling her towards Lalka —
+
+[after 20 seconds]
+[[To the palace ->To The Palace]]
+
+
+:: Go and find help yourself {"position":"3800,1000","size":"100,100"}
+No one here will help me, but I know who can. Even though I swore I would never return to that horrible place...
+[after 5 seconds]
+Still, I must go and beg for her help, even if it's only to discover what ails my darling Lalka.
+
+[after 10 seconds]
+
+[[Continue->Lady's Maid]]
+
+
+:: Happily Ever After {"position":"800,800","size":"100,100"}
+# Chapter 1: Through Doll's Eyes #
+
+This is my favorite part! See for I helped Vasilisa face Baba Yaga unscathed and made her a loom, which she used to weave a fabric so _beautiful_ she won the King’s heart.
+[after 5 seconds]
+With her wicked step-mother and step-sisters consumed by Baba Yaga’s gift of fire.
+[after 10 seconds]
+Vasilisa moved her father and myself into the King’s palace. They had a gorgeous wedding!
+[after 15 seconds]
+Now this is where our life can truly begin, for Vasilisa and I will go on many adventures in the palace. We shall never part. Here now I sit on her nightstand, waiting for us to play…
+[after 20 seconds]
+[[Continue->Night 1]]
+
+
+:: Help the Doll {"position":"7600,800","size":"100,100"}
+As understanding dawned on me, I threw myself at Baba Yaga's feet and began pleading for the Doll's life —
+
+[after 10 seconds]
+"Please grandmother have mercy for what she says in true! Oh how could I be so cruel! I didn't know. Didn't realize! I took your kindness for granted and for that I am sorry"
+[after 20 seconds]
+I ran to the Doll, kissing both of her tear-stained cheeks. 
+
+[after 25 seconds]
+"Please forgive me! Forgive me! Grandmother if you must punish someone, punish me!"
+[after 35 seconds]
+Baba Yaga studied me considering my words, but then the Doll steadied herself and shook her head. 
+[after 45 seconds]
+"No...I am the one who lied. I turned my love for you into resentment, into jealousy... I never told you how I felt, I never told you when I was hurting. I am deserving of this punishment. Please spare them!"
+[after 55 seconds]
+The Witch let out an exasperated sigh and carefully considered us both. As if she was trying to decide which of us she would devour first. Then she turned to face the doll,
+[after 60 seconds]
+"Very well — for your trickery you shall take this one's place tending to my hearth and hut. And you two \
+*pointing a boney finger at Vasilisa and Lalka* \
+**LEAVE**! And **NEVER** darken my doorstep with your ceaseless troubles again!" 
+
+[[Continue -> Say Your Goodbyes]]
+
+
+:: Lady's Maid {"position":"4000,1000","size":"100,100"}
+As Lalka follows me back to her room. I summon her nurse maid.
+
+[after 5 seconds]
+"Watch over her. I must rest for a moment." 
+
+[after 10 seconds]
+At this Lalka started to bawl her eyes out \ "No! No! Mama do not leave me with her! Do not leave me again!"
+
+[after 15 seconds]
+"Silly girl, I am not leaving you. I need to rest and will be back to play later this evening now be a good girl and go."
+
+[after 20 seconds]
+After a moment of pouting, Lalka sniffles and nodds her head in concession taking her leave with the nurse maid.
+
+[[Prepare for the journey ahead]]
+
+
+:: Leave no offering {"position":"4900,600","size":"100,100"}
+Ha! I've gone mad! I can't waste perfectly good food on old wive's tales when I have so little. I'll need all my strength on this journey. 
+[after 10 seconds]
+*Later that night*—the groans and moaning throughout the small cabin are loud enough to wake the dead and send a chill down my spine, but eventually I drift off to sleep. 
+
+[after 15 seconds]
+[[The Next Day ->Next Day Bad]]
+
+
+:: Left Path {"position":"4700,600","size":"100,100"}
+As the white knight gallops past bringing twilight with him, I come across a small hunting cabin. It is old, but sturdy. \ I dismount, tie my horse up outside and cautiously walk up to the cabin door. I give a polite knock at the door to no answer. 
+
+[after 10 seconds]
+Tentitively, I give the door a gentle push...it is unlocked! I make my way inside, set down my things, and begin building a fire to light the hearth. Once the fire is lit, I start to cook the small amount of food I have. The old house shutters and creaks. The shadows dance on the walls behind me. 
+
+[after 20 seconds]
+I've heard stories of homes like these— homes where house spirits reside—they will protect you; but only if you give them an offering...
+
+[after 25 seconds]
+But that's all they are—just **stories**! Still maybe I should offer something to be safe...
+
+[after 30 seconds]
+> [[Offer some of your food]]
+> [[Leave no offering]]
+
+
+:: Next Day Bad {"position":"5200,600","size":"100,100"}
+When I wake up to an icy, chill in the air. I go and inspect the hearth which has been doused. I inspect the small cabin and find my cloak in tatters and my bag emptied with what little I have smashed against the floor! \
+The windows have been thrown open letting in the cold winter air, freezing me to the bone. When I check outside, I am devastated to find my horse has been stolen! ***Oh no!***
+
+[after 15 seconds]
+I may be worse for wear but I must continue on! Although who knows how long this journey will take on foot with no food or protection from the bitter cold. 
+
+[after 20 seconds]
+[[Continue -> Frozen]]
+
+
+:: Night 1 {"position":"1000,800","size":"100,100"}
+### Night 1 ###
+Vasilisa has been so busy as the new queen, which makes sense, how lucky is the palace! How lucky is the King to have such a brave, beautiful queen! Once things have quieted down she’ll come play with me soon.
+
+[after 10 seconds]
+
+### Night 30 ### 
+*sigh* It’s been a long time since my lovely Vasilisa has come to speak to me. She doesn’t even give me a little bit of food and drink to tell me her woes. But such is the life of a queen, she must be very busy. I will remain patient and wait for her to return to me.
+
+[after 30 seconds]
+
+### Night 90 ###
+Oh reader! I am overjoyed! Vasilisa called upon me tonight! She gave me food and a drink then began telling me her struggles with her new husband. The King wishes for her to be with child and she is scared. I told her she will be an excellent mother and Queen! How can she not be for she is loyal, brave, and wise! I promised her that I would help her have a child as wondrous and beautiful as she. Maybe once she does this task for the King, we can be together again?
+
+[[Continue->Very Busy]]
+
+
+:: No going back now {"position":"6200,600","size":"100,100"}
+When no one answer's I feel a small twinge of dread, standing on the door step unsure of what to do...
+
+***Should I...***
+>[[Regally demand they open the door]]
+>[[Politely announce your presense]]
+
+
+:: Offer some of your food {"position":"4900,400","size":"100,100"}
+I break off a bit of my bread, ladle some broth into a small bowl, and pour out some of my water into cup. Setting my offering on the mantle above the hearth. 
+
+[after 5 seconds]
+"Please accept this offering as thanks for letting me rest in your home this night"
+
+[after 10 seconds]
+[[The Next Day -> Next Day Good]]
+
+
+:: Politely announce your presense {"position":"6400,700","size":"100,100"}
+Baba Yaga is a dangerous, old woman, but she will *hopefully* not harm me if I mind my manners and am clever. 
+
+[after 5 seconds]
+I gentily call out, "Grandmother, I have returned to your home to humbly seek your wisdom and help." 
+
+[after 10 seconds]
+[[The Door Creaks Open -> Good Door]]
+
+
+:: Prepare for the journey ahead {"position":"4300,800","size":"100,100"}
+I rush off to my room and I grab my traveler's cloak. Then I sneak into the kitchen to pack some food for the journey ahead. Carefully I creep into the stables and find a mare, saddling her and praying that she is swift. Once I have secured all my supplies, I take off, riding back in the direction of my childhood home. Into to the woods... 
+
+[after 10 seconds]
+For I ***know*** who can answer my questions...
+
+[after 15 seconds]
+[[Continue -> Into the Woods]]
+
+
+:: Prologue {"position":"200,800","size":"100,100"}
+# Prologue #
+
+In a far off land, where the cold clings stubbornly to the air, there lived a young girl named Vasilisa. Vasilisa was a kind and lovely young girl living in a happy home with her mother and father.
+[after 5 seconds]
+*But what tale would this be if that lasted?* 
+[after 8 seconds]
+[[Continue -> Mother Dies]]
+
+
+
+
+:: Regally demand they open the door {"position":"6400,500","size":"100,100"}
+I muster any sense of regality I can and remind myself: *you're not a child anymore! You neededn't be afraid of her...*
+
+[after 5 seconds] 
+I knock again at the door, "Open this door at **ONCE**! By order of the Queen! I seek the Witch of these woods, one named Baba Yaga!"
+
+[after 10 seconds]
+[[The Door Creaks Open -> Bad Door]]
+
+
+:: Remarried {"position":"600,800","size":"100,100"}
+After some time passed, Vasilisa’s father remarried to a widowed mother of two young girls. Vasilisa was hated by her step-mother and step-sisters who treated her with only cruelty. 
+[after 5 seconds]
+Left alone by her father who was always traveling, Vasilisa only had the company of her Doll to stop her grief from consuming her. 
+[after 10 seconds]
+Until one fateful day when, Vasilisa’s step-mother sent her on a treacherous journey into the woods to seek fire from the witch of the woods, Baba Yaga. And well…
+[after 15 seconds]
+The rest of this story is long, so allow me skip to the happily ever after
+[after 20 seconds]
+For that's where **my** story begins…
+[after 25 seconds]
+[[Continue->Happily Ever After]]
+
+
+:: Right Path {"position":"4700,900","size":"100,100"}
+As I take the right path, I soon hear the sound of rushing water. I dismount to see that there is a small river up ahead. I go to kneel by the river and study the water. It is not deep here, I could swim across. It would be risky to swim in this weather, but not impossible... 
+
+[after 10 seconds]
+Out of the corner of my eye, I swear I saw something move in the reeds by the water's edge. But I shrug it off... It's probably a small animal? I could swim across or I could walk along the rivers edge and see if I find a shallow crossing. 
+
+[after 20 seconds]
+***What should Vasilisa do?***
+[after 20 seconds]
+>[[Swim across]]
+[after 20 seconds]
+>[[Walk along the rivers edge]]
+
+
+:: See the court physician {"position":"3800,600","size":"100,100"}
+I make my way to the palace physician with Lalka at my heels, summoning any sense of regality I can muster. I will **demand** that he examines Lalka more thoroughly!
+
+[after 5 seconds]
+"Why hello your majesty! How may I be of service?"
+
+[after 10 seconds]
+"Maester, I demand you examine Lalka more thoroughly. She is clearly unwell!"
+
+[after 15 seconds]
+"Your majesty, please, I have examined her already and she is healthy...She has no cough, no bruises, or ailments. I can not treat someone who is perfectly healthy."
+
+[after 20 seconds]
+But she is **NOT** healthy! She eats and drinks much less than before. She refuses to leave my side. She doesn't go out and play or wander as she used to. Even now look at her she sits perfectly still, completely **wooden**!"
+
+[after 30 seconds]
+"But...*ahem*...your majesty, this is a blessing is it not? She is a well-tempered child. Well mannered. She isn't gluttonous or high-spirited. I wish my children were so well behaved. Hahaha..."
+
+[after 35 seconds]
+[[How curious...->Wooden Comment]]
+
+
+:: Swim across {"position":"4900,800","size":"100,100"}
+I take my horses' reins and lead it to the water's edge, slowly guiding it through its murky depths as we swim across. The water is freezing, but I keep on swiming for Lalka! 
+
+[after 10 seconds]
+Suddenly, something below snags the reins trying to pull my horse further down. My mare begins wildly neighing and pulling at the reins trying to break free from whatever ensnared it. Finally, it yanks free and abandons me in the water racing for the shore.
+
+[after 20 seconds]
+Bewildered at what just happened, I'm taken completely unawares when I feel something yanking on my leg, trying to pull me down into the water. I kick out at it, breaking free and begin deperately swimming to the waters edge. But it's no use, something has caught me and it begins to violently pull me down into the murky depths below!
+
+[after 30 seconds]
+I take a deep breath, as I'm pulled underwater, and come face to face with a beautiful, young maiden. Her skin is a pale green with algae clinging to her hair. Her eyes are wide pools of inky blackness and her teeth are razor sharp as she grins and sinks them into me. 
+
+[after 40 seconds]
+The End.
+
+
+:: The Witch's Wrath {"position":"7400,700","size":"100,100"}
+Without warning the little hut's front door flew open and the girl I thought was my Lalka came flying into the room, flung to the floor at Baba Yaga's feet. 
+
+[after 5 seconds]
+Baba Yaga  grabbed her by her ear dragging the young girl's face to meet hers. The young girl wept and shook with terror
+
+[after 10 seconds]
+"Lying, cheating doll! How dare you trick me! I will devour you whole — NO — I will turn you into kindling — NO! I will..will—l "
+[after 15 seconds]
+The young girl wailed, "No please ***please***! I just wanted to be with my darling Vasilisa again! Please!"
+[after 20 seconds]
+"Wait! You're my Doll? The blessing my mother gave me? But how is that possible?"
+[after 25 seconds]
+The girl looked scornfully at me through tearful eyes \
+"I *was* a gift, meant to be your friend, a kindred spirit, borne of a mothers love. And still **YOU** gave me away! You only ever told me your woes, your sorrows, and in return you would only feed me crumbs and yet I gave and gave all of myself to you!"
+[after 35 seconds]
+*the Doll let out a shakey breath and wailed*
+[after 40 seconds]
+"You wouldn't have made it through the dark forest without me! You wouldn't have completed any of Baba Yaga's tasks without me! I was the one who comforted you at your darkest hours, who made Lalka the perfect child you see before you. I gave her the gift of (gift) and I never even got a **THANK YOU!!!**"
+
+[after 45 seconds]
+Baba Yaga dropped the Doll, digusted by her wailing and tears, the Doll curled up on the ground at the Witch's feet. The magic began to fade from her, smooth skin turned knotted and wooden, her features stiffened, and began to look almost painted on.  Through her sobs she seethed, \
+"You gave me—my love away! All for **HER!**
+[after 50 seconds]
+She pointed furiously at Lalka who stood trembling behind me.
+
+[after 55 seconds]
+As understanding dawned on me \
+> [[Help the Doll]]
+> [[Do Nothing]]
+
+
+:: To The Palace {"position":"3000,1000","size":"100,100"}
+I make my way through the woods, I hear the sound of horse hooves galoping behind me. Suddenly a knight clad in blood-red, riding a firery red horse streaked past me. As he did the sun rose.  I kept running through the woods towards the palace gates, ignoring the soreness I felt in my newly formed limbs. 
+
+[after 10 seconds]
+As I creep up to the palace gates wondering how I'm going to get past the guards. I see Vasilisa frantically sprinting out to meet me out to meet me. 
+[after 15 seconds]
+My beloved Vasilisa! She's in tears and sweeps me up into a enormous hug. Kissing both my cheeks and whispering sweet nothings into my ears. 
+[after 20 seconds]
+"My precious one! Where did you run off too? Do you know how scared I was when I came to find you this morning and you were gone?!? Don't you ever scare me like that again!"
+
+[after 25 seconds]
+"Oh Va-**Mother**! I am so sorry I frightened you! I have no excuse! I promise will never leave your side again!"
+
+[[Hug Vasilisa Tighter ->Chapter 2]]
+
+
+:: Truth {"position":"2600,600","size":"100,100"}
+"Oh please! is there nothing else I can give you? For my darling Vasilisa never gave me a name..."
+
+[after 10 seconds]
+
+"Then you have no payment, no use, and no hope. Poor thing...you weren't even loved enough to be given a proper name..."
+
+[after 15 seconds]
+
+Baba Yaga snatches the Doll off the table and flings it into the hearth
+
+"What a shame — I have no use of blessings, but you can at least keep these tired bones warm on these cold winter nights."
+
+[[The End -> Bad Ending 1]]
+
+
+:: Very Busy {"position":"1200,800","size":"100,100"}
+### Night 100 ###
+I’ve been very busy, helping my darling Vasilisa. \
+At night, I’ve been collecting little pieces of her, ribbons she braids into her hair, her old sewing needles, scraps of cloth she’s worn, jewelry gifted by the King, small items she's misplaced. \
+Do not think less of me! I am no petty thief! 
+
+***
+I need them, for I will use them to make my darling Vasilisa’s child, a mirror image of her. Break them down into their very essence and slip them into her food and drink when she’s not looking. I do this for her! Then when she sees the beautiful and perfect the child is. She will be overcome with joy and gratitude towards me!
+
+> [[Ladybirds -> Gift 1]]
+> [[Two cents -> Gift 2]]
+> [[Red Spool of Thread -> Gift 3]]
+> [[A Gold Key -> Gift 4]]
+
+
+:: Walk along the rivers edge {"position":"4900,1000","size":"100,100"}
+I take my time walking along the rivers edge, skipping stones, waiting to find where the river becomes shallow. 
+
+[after 5 seconds]
+When **again** I see something, moving in the water, out of the corner of my eye. I've heard stories about rivers such as these and the poor creatures that lie in wait in it's depths below. 
+
+[after 10 seconds]
+[[Continue -> Flower Crown]]
+
+
+:: Wooden Comment {"position":"4000,600","size":"100,100"}
+My eyes must be decieving me...but when I accused Lalka of being *wooden* she winced...as if I called her something horrible...
+
+[after 10 seconds]
+"*sigh*...Very well...thank you Maester for your time. Come Lalka"
+
+[after 15 seconds]
+Lalka follows me silently out of the physicians room. I summon a lady's maid.
+
+[after 20 seconds]
+"Watch over her. I must rest for a moment." And at this Lalka started to bawl her eyes out
+[after 25 seconds]
+"No! No! Mama do not leave me with her! Do not leave me **again**!"
+[after 30 seconds]
+"Silly girl, I am not leaving you. I need to rest and will be back to play later this evening. Now be a good girl and go play outside."
+
+[after 35 seconds]
+Lalka sniffles and nods her head taking her leave with her nurses maid.
+
+[[Prepare for the journey ahead]] 
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+#page{
+  background-color: #F8FAED;
+  color: #181717;
+
+}
+#page .link{
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+  text-decoration: none;
+}
+
+#page .link:hover{
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#text, p{
+  	font-family: "Spectral", serif;
+  	font-weight: 500;
+  	font-size: 1.333rem;
+	line-height: 2rem;
+}
+
+footer div .left{
+	font-size: 1.777rem;
+  	font-family: "Spectral", serif;
+  	font-weight: 600;
+}
+
+footer theme-switcher .link{
+	display: hidden;
+}
